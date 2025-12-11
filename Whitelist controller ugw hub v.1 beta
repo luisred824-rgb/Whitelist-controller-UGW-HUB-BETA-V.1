@@ -10,7 +10,7 @@ local Whitelist = {
     -- 1
     "Gordobein12",
     -- 2
-    "",
+    "URWORTHLESS81910",
     -- 3
     "",
     -- 4
@@ -442,6 +442,6 @@ end
 
 -- VERY simple placeholder you can replace anytime:
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SamWerberg/UGW-HUB/refs/heads/main/Beta"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SamWerberg/SCRIPT-HUB-UGW-BETA-TESTED/refs/heads/main/BETA%20VERSION'))()
 
 print("✔ Whitelisted — main script loaded successfully!")
